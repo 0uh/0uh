@@ -1,8 +1,7 @@
-<h1 align=center>≻────⋆ Slay ⋆────≺<h1>
+<h1 align=center>≻────⋆ 0uh ⋆────≺<h1>
 
 
 ```
-◊ ; slay#5454
 ◊ ; 13
 ◊ ; uk
 ◊ ; learning
